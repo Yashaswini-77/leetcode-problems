@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0704-binary-search](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,4 +43,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
