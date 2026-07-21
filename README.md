@@ -17,4 +17,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
