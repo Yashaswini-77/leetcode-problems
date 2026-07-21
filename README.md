@@ -10,6 +10,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,6 +23,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
+| [0242-valid-anagram](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,4 +36,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
+| [0242-valid-anagram](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
