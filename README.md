@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0704-binary-search](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0704-binary-search/) | Easy |
@@ -33,10 +34,12 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
 ## Dynamic Programming
