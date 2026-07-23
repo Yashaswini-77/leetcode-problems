@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0048-rotate-image](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
+| [0055-jump-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0055-jump-game/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0699-falling-squares](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0699-falling-squares/) | Hard |
@@ -51,6 +52,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -72,4 +74,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0048-rotate-image/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
