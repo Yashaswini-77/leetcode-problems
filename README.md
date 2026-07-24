@@ -11,6 +11,7 @@
 | [0055-jump-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0055-jump-game/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0699-falling-squares](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0699-falling-squares/) | Hard |
 | [0704-binary-search](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0704-binary-search/) | Easy |
 ## Hash Table
@@ -19,6 +20,7 @@
 | [0001-two-sum](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
+| [0496-next-greater-element-i](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +40,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0155-min-stack/) | Medium |
+| [0496-next-greater-element-i](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +86,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0155-min-stack/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
