@@ -15,6 +15,7 @@
 | [0496-next-greater-element-i](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0699-falling-squares](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0699-falling-squares/) | Hard |
 | [0704-binary-search](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0704-binary-search/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,6 +23,7 @@
 | [0049-group-anagrams](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,4 +98,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0904-fruit-into-baskets](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
 <!---LeetCode Topics End-->
