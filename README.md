@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0048-rotate-image](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
@@ -47,6 +48,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 ## Sorting
@@ -85,6 +87,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0055-jump-game/) | Medium |
 ## Design
 | Problem Name | Difficulty |
