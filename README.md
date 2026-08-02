@@ -14,6 +14,7 @@
 | [0088-merge-sorted-array](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0399-evaluate-division](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0399-evaluate-division/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0621-task-scheduler/) | Medium |
 | [0699-falling-squares](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0699-falling-squares/) | Hard |
@@ -42,6 +43,7 @@
 | [0020-valid-parentheses](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
+| [0399-evaluate-division](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0399-evaluate-division/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,4 +122,24 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0621-task-scheduler/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0399-evaluate-division/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0399-evaluate-division/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0399-evaluate-division/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0399-evaluate-division/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0399-evaluate-division/) | Medium |
 <!---LeetCode Topics End-->
