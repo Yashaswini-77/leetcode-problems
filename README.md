@@ -20,6 +20,7 @@
 | [0699-falling-squares](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0699-falling-squares/) | Hard |
 | [0704-binary-search](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0704-binary-search/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,6 +72,7 @@
 | [0053-maximum-subarray](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@
 | [0048-rotate-image](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0089-gray-code](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0089-gray-code/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,4 +154,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0089-gray-code/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 <!---LeetCode Topics End-->
