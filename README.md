@@ -87,6 +87,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0048-rotate-image/) | Medium |
+| [0089-gray-code](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0089-gray-code/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -142,4 +143,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0399-evaluate-division/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0089-gray-code/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0089-gray-code](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0089-gray-code/) | Medium |
 <!---LeetCode Topics End-->
