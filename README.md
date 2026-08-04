@@ -21,6 +21,7 @@
 | [0704-binary-search](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0704-binary-search/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
+| [2784-check-if-array-is-good](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3731-find-missing-elements](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -31,6 +32,7 @@
 | [0496-next-greater-element-i](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0621-task-scheduler/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3731-find-missing-elements](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -68,6 +70,7 @@
 | [0088-merge-sorted-array](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0621-task-scheduler](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0621-task-scheduler/) | Medium |
+| [2784-check-if-array-is-good](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3731-find-missing-elements](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
