@@ -136,10 +136,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0399-evaluate-division/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0399-evaluate-division/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +150,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0399-evaluate-division/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
