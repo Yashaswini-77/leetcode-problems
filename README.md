@@ -19,6 +19,7 @@
 | [0621-task-scheduler](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0621-task-scheduler/) | Medium |
 | [0699-falling-squares](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0699-falling-squares/) | Hard |
 | [0704-binary-search](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0704-binary-search/) | Easy |
+| [0877-stone-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
@@ -78,6 +79,7 @@
 | [0053-maximum-subarray](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0877-stone-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -97,6 +99,7 @@
 | [0048-rotate-image](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0089-gray-code](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0089-gray-code/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0877-stone-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 ## Matrix
@@ -167,14 +170,17 @@
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0877-stone-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
