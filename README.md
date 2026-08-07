@@ -52,6 +52,7 @@
 | [0049-group-anagrams](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0399-evaluate-division](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0399-evaluate-division/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@
 | [0877-stone-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +118,7 @@
 | [0011-container-with-most-water](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0055-jump-game/) | Medium |
 | [0621-task-scheduler](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0621-task-scheduler/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -167,6 +170,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0089-gray-code/) | Medium |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,4 +197,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 <!---LeetCode Topics End-->
