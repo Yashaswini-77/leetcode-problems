@@ -87,6 +87,7 @@
 | [0486-predict-the-winner](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -109,6 +110,7 @@
 | [0486-predict-the-winner](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Matrix
@@ -185,18 +187,21 @@
 | [0486-predict-the-winner](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
+| [1510-stone-game-iv](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,4 +210,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Nim Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
+## Sprague–Grundy Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1510-stone-game-iv](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
 <!---LeetCode Topics End-->
