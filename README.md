@@ -24,6 +24,7 @@
 | [0904-fruit-into-baskets](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3731-find-missing-elements](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -35,6 +36,7 @@
 | [0621-task-scheduler](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0621-task-scheduler/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3731-find-missing-elements](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -142,6 +144,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0904-fruit-into-baskets](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
