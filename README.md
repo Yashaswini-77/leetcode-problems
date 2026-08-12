@@ -48,6 +48,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0242-valid-anagram/) | Easy |
