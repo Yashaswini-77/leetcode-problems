@@ -26,6 +26,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -192,6 +193,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0089-gray-code](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0089-gray-code/) | Medium |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
