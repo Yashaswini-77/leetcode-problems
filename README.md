@@ -44,10 +44,12 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0486-predict-the-winner](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0486-predict-the-winner/) | Medium |
 ## String
@@ -114,6 +116,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0048-rotate-image/) | Medium |
 | [0089-gray-code](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0089-gray-code/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
