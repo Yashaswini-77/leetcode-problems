@@ -23,6 +23,7 @@
 | [0877-stone-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
+| [2029-stone-game-ix](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2029-stone-game-ix/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2784-check-if-array-is-good](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -124,6 +125,7 @@
 | [0877-stone-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2029-stone-game-ix/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Matrix
@@ -136,6 +138,7 @@
 | [0011-container-with-most-water](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0055-jump-game/) | Medium |
 | [0621-task-scheduler](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0621-task-scheduler/) | Medium |
+| [2029-stone-game-ix](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2029-stone-game-ix/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 ## Design
@@ -164,6 +167,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0621-task-scheduler/) | Medium |
+| [2029-stone-game-ix](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -204,6 +208,7 @@
 | [0877-stone-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +216,7 @@
 | [0877-stone-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -218,6 +224,7 @@
 | [0877-stone-game](https://github.com/Yashaswini-77/leetcode-problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -230,6 +237,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/Yashaswini-77/leetcode-problems/tree/main/1510-stone-game-iv/) | Hard |
+| [2029-stone-game-ix](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2029-stone-game-ix/) | Medium |
 ## Sprague–Grundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
