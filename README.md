@@ -135,6 +135,7 @@
 | [2029-stone-game-ix](https://github.com/Yashaswini-77/leetcode-problems/tree/main/2029-stone-game-ix/) | Medium |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Yashaswini-77/leetcode-problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
